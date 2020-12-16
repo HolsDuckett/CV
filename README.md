@@ -1,4 +1,4 @@
-## Your Name
+## Holly Duckett
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -11,13 +11,13 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**The Truman Brewery** (FEB 2019 to OCT 2020)  
+- Event Operations Manager -
 
 - Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Jet Studios** (JUL 2018 to FEB 2019)  
+- Floor Manager -
 
 - Any experience relevent to software development
 
@@ -42,18 +42,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (NOV 2020 to MAR 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Exeter (SEP 2015 to JULY 2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- History of Art and English Literature
+- 2:1
+- Dissertation focused on participatory art in the the Tate Modern, specifically the Turbine Hall; including aspects on the technological aspects which help turn the viewer into a participant. 
+- Created a walking tour app for the city of Exeter.
 
 #### Any other qualifications
 
@@ -61,4 +62,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Yoga - got to stretch those hip flexors some how
+Eating - particularly pasta, in fact, pretty much only pasta
+Travelling - the more you see, the more you know and understand
+
