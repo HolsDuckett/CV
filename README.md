@@ -14,7 +14,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 **The Truman Brewery** (FEB 2019 to OCT 2020)  
 - Event Operations Manager -
 
-- Any experience relevent to software development
+- Managing the day to day and event logistics of a 10 acre multi
+capacity events venue on Brick Lane, East London. Coordinating event
+planners, council regulations and venue requirements to ensure a
+smooth delivery of all necessary factors to create impacting events
+for capacities of up to 2,000. [[[[CHANGE TO TECH RELATED]]]]]
 
 **Jet Studios** (JUL 2018 to FEB 2019)  
 - Floor Manager -
