@@ -1,6 +1,7 @@
 ## Holly Duckett
 
-I thought I had mastered the creative art of problem solving, that was, until I was introduced to coding. As an operations manager for one of the largest and leading event venues in london, I achieved solving the unsolvable for clients such as Vivienne Westwood, Bacardi and Netflix, on a daily basis. Since starting my coding career i now know that my problem solving journey has just begun 
+As an operations manager for one of the largest and leading event venues in london, I achieved solving the unsolvable for clients such as Moncler, Bacardi and Netflix, on a daily basis. I thought I had mastered the creative art of problem solving, that was until I was introduced to coding. 
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
@@ -12,19 +13,22 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**The Truman Brewery** (FEB 2019 to OCT 2020)  
+**The Truman Brewery** (February 2019 to October 2020)  
 - Event Operations Manager -
 
 - Managing the day to day and event logistics of a 10 acre multi
-capacity events venue on Brick Lane, East London. Coordinating event
-planners, council regulations and venue requirements to ensure a
+capacity events venue on Brick Lane, East London.
+- Coordinating event planners, council regulations and venue requirements to ensure a
 smooth delivery of all necessary factors to create impacting events
-for capacities of up to 2,000. [[[[CHANGE TO TECH RELATED]]]]]
+for capacities of up to 2,000. 
 
-**Jet Studios** (JUL 2018 to FEB 2019)  
+**Jet Studios** (July 2018 to February 2019)  
 - Floor Manager -
 
-- Any experience relevent to software development
+- Managing the day to day and prepartion of a high end film and photography studio with clients such as Vivienne Westwood, Evian & ITV. 
+- Excellent communiction skills 
+- Working independantly and managing a team of studio assistant meant ensuring i am self confident and able to raise enthusiasm in others.
+- Plenty of patience and stamina in such a demanding public-facing position.
 
 ## Skills
 
@@ -59,11 +63,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - History of Art and English Literature
 - 2:1
 - Dissertation focused on participatory art in the the Tate Modern, specifically the Turbine Hall; including the technological aspects which help turn the viewer into a participant. 
-- Produced a walking tour app for the city of Exeter.
 
-#### Any other qualifications
+#### Steyning Grammar 6th Form
 
-That in some arguable way make you a better software developer or well-rounded person
+- English Literature (A)
+- English Language (A)
+- Art & Design (A)
+
+#### Steyning Grammar School
+
+- 11 A*-B GCSE's including Maths, English & Triple Science.
 
 ## Hobbies
 
