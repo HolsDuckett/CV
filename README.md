@@ -13,7 +13,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**The Truman Brewery - Event Operations Manager (February 2019 to October 2020)  
+**The Truman Brewery - Event Operations Manager (February 2019 to October 2020)**
 
 - Managing the day to day and event logistics of a 10 acre multi
 capacity events venue on Brick Lane, East London.
@@ -21,7 +21,7 @@ capacity events venue on Brick Lane, East London.
 smooth delivery of all necessary factors to create impacting events
 for capacities of up to 2,000. 
 
-**Jet Studios - Floor Manager (July 2018 to February 2019)  
+**Jet Studios - Floor Manager (July 2018 to February 2019)**
 
 - Managing the day to day and prepartion of a high end film and photography studio with clients such as Vivienne Westwood, Evian & ITV. 
 - Excellent communiction skills 
