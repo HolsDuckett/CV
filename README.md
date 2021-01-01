@@ -1,4 +1,5 @@
 ## Holly Duckett
+I am a problem solver who loves a good challenge and am able to take ownership of an issue through to resolution.
 
 As an operations manager for one of the largest and leading event venues in london, I achieved solving the unsolvable for clients such as Moncler, Bacardi and Netflix, on a daily basis. I thought I had mastered the creative art of problem solving, that was until I was introduced to coding. 
 
