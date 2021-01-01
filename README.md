@@ -67,8 +67,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Yoga - got to stretch those hip flexors some how
-Eating - particularly pasta, in fact, pretty much only pasta
-Travelling - the more you see, the more you know and understand
-Codewords - i get the paper everyday, mostly just for the codeword. 
-
+- Yoga - got to stretch those hip flexors some how.
+- Eating - particularly pasta, in fact, pretty much only pasta.
+- Travelling - particularly solo travelling. 
