@@ -13,8 +13,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**The Truman Brewery** (February 2019 to October 2020)  
-- Event Operations Manager -
+**The Truman Brewery - Event Operations Manager (February 2019 to October 2020)  
 
 - Managing the day to day and event logistics of a 10 acre multi
 capacity events venue on Brick Lane, East London.
@@ -22,8 +21,7 @@ capacity events venue on Brick Lane, East London.
 smooth delivery of all necessary factors to create impacting events
 for capacities of up to 2,000. 
 
-**Jet Studios** (July 2018 to February 2019)  
-- Floor Manager -
+**Jet Studios - Floor Manager (July 2018 to February 2019)  
 
 - Managing the day to day and prepartion of a high end film and photography studio with clients such as Vivienne Westwood, Evian & ITV. 
 - Excellent communiction skills 
@@ -51,14 +49,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (NOV 2020 to MAR 2021)
+#### Makers Academy (Novemeber 2020 to March 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Exeter (SEP 2015 to JULY 2018)
+#### University of Exeter (September 2015 to July 2018)
 
 - History of Art and English Literature
 - 2:1
