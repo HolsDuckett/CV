@@ -1,5 +1,5 @@
 
-# <div align="center">Holly Duckett</div>
+# <center>Hey, I'm Holly!</center> 
 
 <div align="center">[Linkedin Profile](https://www.linkedin.com/in/holly-duckett-b41010192/)</div>
 
