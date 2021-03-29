@@ -1,4 +1,4 @@
-![README Banner](CV/banner.png)
+![README Banner](banner.png)
 
 <div align="center">[Linkedin Profile](https://www.linkedin.com/in/holly-duckett-b41010192/)</div>
 
