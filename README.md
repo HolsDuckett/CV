@@ -1,9 +1,9 @@
 ![README Banner](banner.png)
 
-// add in linked
-*Lets chat! Open to all opportunities.*
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/holly-duckett-b41010192/)
+
+
+[![Linkedin](https://user-images.githubusercontent.com/74721308/112849734-3e0b6280-90a1-11eb-94c5-fb6459d96fc9.png) LinkedIn](https://www.linkedin.com/in/holly-duckett-b41010192/)
 
 <div align="center">[Linkedin Profile](https://www.linkedin.com/in/holly-duckett-b41010192/)</div> 
 
