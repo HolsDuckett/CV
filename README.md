@@ -3,7 +3,7 @@
 
 <div align="center"> [Projects](#Projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) </div>
 
-<div align="center">[![Linkedin](https://user-images.githubusercontent.com/74721308/112849877-64c99900-90a1-11eb-98e1-11b52988aefd.png)](https://www.linkedin.com/in/holly-duckett-b41010192/)</div>
+<div align="center"> [![ ](https://user-images.githubusercontent.com/74721308/112849877-64c99900-90a1-11eb-98e1-11b52988aefd.png) LinkedIn](https://www.linkedin.com/in/holly-duckett-b41010192/)</div>
 
 ## About Me
 I am a problem solver who loves a good challenge and am able to take ownership of an issue through to resolution.
