@@ -1,5 +1,8 @@
 ![README Banner](banner.png)
 
+*Lets chat! Open to all opportunities.*
+<i class="ri-linkedin-box-fill"></i> <i class="ri-mail-line"></i>
+
 <div align="center">[Linkedin Profile](https://www.linkedin.com/in/holly-duckett-b41010192/)</div>
 
 <div align="center"> [Projects](#Projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) </div>
