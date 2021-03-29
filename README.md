@@ -1,15 +1,21 @@
-## Holly Duckett
+
+# <div align="centre">Holly Duckett</div>
+
+[Holly Duckett's Linkedin Profile](https://www.linkedin.com/in/holly-duckett-b41010192/)
+-----------------------
+
+[Projects](#Projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
+
+## About Me
 I am a problem solver who loves a good challenge and am able to take ownership of an issue through to resolution.
 
 As an operations manager for one of the largest and leading event venues in london, I achieved solving the unsolvable for clients such as Moncler, Bacardi and Netflix, on a daily basis. I thought I had mastered the creative art of problem solving, that was until I was introduced to coding. 
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Scrummy**                  | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
