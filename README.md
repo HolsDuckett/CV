@@ -1,6 +1,5 @@
 ![README Banner](CV/banner.png)
 
-
 <div align="center">[Linkedin Profile](https://www.linkedin.com/in/holly-duckett-b41010192/)</div>
 
 <div align="center"> [Projects](#Projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) </div>
