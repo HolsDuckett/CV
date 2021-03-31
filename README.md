@@ -26,19 +26,21 @@ Having recently graduated from Makers Academy I am noW looking for the opportuni
 
 ## Skills
 
-### Communication
+#### Communication
 - keeping client expectations realistic
 - keeping multiple teams within the loop - being the middle man between event manager and venue service teams
+
+#### Fast Learner
 - 
 
-### Problem Solving
+#### Problem Solving
 - events about preventative planning but also very high pressure on the day as there is an immeditae time pressure due to the event being live with paying customers. I am the one responsible for any problems and have to direct or fix as quick as possible. This require creative and proactive problem solving. 
 - EXAMPLE
 
-### Working in a Team
+#### Working in a Team
 - 
 
-### Detail Orientated
+#### Detail Orientated
 -
 
 
