@@ -1,9 +1,14 @@
 
 ![README Banner](banner.png)
 
-<div align="center"> [Projects](#Projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) </div>
+<div align="center"> 
 
-<div align="center"> [![ ](https://user-images.githubusercontent.com/74721308/112849877-64c99900-90a1-11eb-98e1-11b52988aefd.png) LinkedIn](https://www.linkedin.com/in/holly-duckett-b41010192/)</div>
+<a href='https://www.linkedin.com/in/holly-duckett-b41010192/'>
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+[Projects](#Projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
+
+</div>
 
 ## About Me
 I am a problem solver who loves a good challenge and am able to take ownership of an issue through to resolution.
@@ -17,7 +22,9 @@ As an operations manager for one of the largest and leading event venues in lond
 | **Scrummy**                  | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Experience
+## Skills
+
+## Work Experience
 
 **The Truman Brewery - Event Operations Manager (February 2019 to October 2020)**
 
@@ -34,24 +41,6 @@ for capacities of up to 2,000.
 - Working independantly and managing a team of studio assistant meant ensuring i am self confident and able to raise enthusiasm in others.
 - Plenty of patience and stamina in such a demanding public-facing position.
 
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -78,8 +67,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - 11 A*-B GCSE's including Maths, English & Triple Science.
 
-## Hobbies
+## Hobbies and Interest
 
 - Yoga - got to stretch those hip flexors some how.
 - Eating - particularly pasta, in fact, pretty much only pasta.
-- Travelling - particularly solo travelling. 
+- Travelling - 
