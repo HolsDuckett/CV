@@ -27,7 +27,7 @@ I enjoy working in challenging environments and developing or learning from othe
   
   
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react&hide=SCSS">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react&hide=SCSS" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react&hide=SCSS" />
 </a>
 </div>
 
