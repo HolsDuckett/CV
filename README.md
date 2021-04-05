@@ -19,6 +19,8 @@ I enjoy working in challenging environments and developing or learning from othe
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HolsDuckett&show_icons=true&theme=react)
+
 
 ## Projects
 
