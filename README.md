@@ -97,7 +97,6 @@ Makers Academy is a highly selective and incredibly intense 16 week bootcamp whi
 - History of Art and English Literature
 - 2:1 (69% average)
 - Dissertation focused on participatory art in the the Tate Modern, specifically the Turbine Hall; including the technological aspects which help turn the viewer into a participant. 
-- 
 
 #### Steyning Grammar 6th Form
 
