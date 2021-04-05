@@ -15,6 +15,8 @@
 Working for one of the largest and leading event venues in London, I achieved solving the unsolvable for clients such as Moncler, Bacardi and Netflix, on a daily basis. It was trying to solve one of these problems that I was first drawn to Software Development. I wanted to write a program that was specific to our venue space which would consequently make our team more efficient and effective. The moment I started programming I fell in love with the continuous feedback, reflection and improvement cycle it allowed. From then onwards this was my passion and the way I wanted to work in the future.
 
 I enjoy working in challenging environments and developing or learning from others. For this reason I have chosen a career in software development with its continuous problems and infinite depth of learning. 
+
+**Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
   
 ## Projects
 
@@ -52,7 +54,7 @@ capacity events venue on Brick Lane, East London.
 - Coordinating event planners, council regulations and venue requirements to ensure a
 smooth delivery of all necessary factors to create impacting events
 for capacities of up to 2,000. 
-- Managing all event service teams and booking systems including event security and cleaning. 
+- Managing all event service teams and booking systems including event security and cleaning. Including liasing i
 
 **Jet Studios - Floor Manager (July 2018 to February 2019)**
 
@@ -66,13 +68,13 @@ for capacities of up to 2,000.
 
 #### Makers Academy (Novemeber 2020 to March 2021)
 
-Makers Academy is a highly selective and incredibly intense 16 week bootcamp which transforms individuals into Junior Developers. Makers Academy equips students with an entire toolkit of skills for full stack web development, however a few technologies and practices which have focus on are:
+A 16-week intensive development bootcamp, focusing on :
 
-- OOP, TDD, MVC, DDD
-- Agile development process and XP values
-- Ruby, Rails, JavaScript, React, React Native, HTML, CSS
-- RSpec, Jasmine, Capybara, Jest
+- Agile methodologies
+- Object-oriented design
+- Test driven development and behaviour driven development
 - Pair programming
+- XP values
 - Peer code reviews
 - Git workflow
 
@@ -91,9 +93,9 @@ Makers Academy is a highly selective and incredibly intense 16 week bootcamp whi
 
 ## Hobbies and Interest
 
-- Yoga - got to stretch those hip flexors some how.
-- Eating - particularly pasta, in fact, pretty much only pasta.
-- Life Drawing - There's something very soothing about drawing naked people. 
+- **Yoga** - got to stretch those hip flexors some how.
+- **Eating** - particularly pasta, in fact, pretty much only pasta.
+- **Life Drawing** - There's something very soothing about drawing naked people. 
 
 ## Github Stats 
 
