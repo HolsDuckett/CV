@@ -18,7 +18,7 @@ I enjoy working in challenging environments and developing or learning from othe
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HolsDuckett&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react&hide=SCSS)
 -->
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=HolsDuckett&show_icons=true&theme=react">
@@ -26,8 +26,8 @@ I enjoy working in challenging environments and developing or learning from othe
 </a>
   
   
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react&hide=SCSS">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react&hide=SCSS" />
 </a>
 </div>
 
