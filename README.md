@@ -39,34 +39,40 @@ My ability to **quickly spot crucial missing information** in Risk Assessments r
 
 Through both my use of **communication skills and clearly structured communication processes** I was able to **build a proactive and focused team**. Clearly communicating my expectations of them and **ensuring I was available to listen and respond** to their training requirements as well as other ideas for completing the job to the best of their abilities was a **key skill in the success of our services as a company**. As a result of this, **within 3 months of becoming responsible for managing all event service teams, we had a 100% recurring booking record**.
 
-
 ### Quick Learner
 
 Learning new technologies is a key skill of mine, which can be demonstrated through my success at Makers Academy thus far. Due to my **inquisitive nature and my speedy knowledge on-boarding**, I was able to create a mock web page in my spare time using **self taught** basics of javascript, CSS, HTML, and Bootstrap for my personal web development interest prior to joining Makers. Since joining Makers, **I have created a vast collection of projects that delve into the different technologies and architectures used in web development**. From single page javascript apps, to intricate rails projects, I've **successfully explored a great range of innovative tech** that's leading the companies of today to greatness.
-
 
 ## Work Experience
 
 **The Truman Brewery - Event Operations Manager (February 2019 to November 2020)**
 
-- Managing the day to day and event logistics of a 10 acre multi
-capacity events venue on Brick Lane, East London.
-- Coordinating event planners, council regulations and venue requirements to ensure a
-smooth delivery of all necessary factors to create impacting events
-for capacities of up to 2,000. 
-- Managing all event service teams and booking systems including event security and cleaning. Including liasing i
+ Managing the day to day and event logistics of a 10 acre multi capacity events venue on Brick Lane, East London.
+ 
+- Coordinating event planners, council regulations and venue requirements
+- Day-to-day venue support
+- Health and safety protocols including risk assessment document reviews
+- Training new team members
+- Development of a venue operations manual document
+- Management of key internal documentation (audit, health and safety)
+- Enhancement of external documentation (event procedure, client support)
+- Managing all event service teams and booking systems including event security and cleaning. 
+- Lead and motivate a team with diverse skill sets, including delegating work and responsibilities, as well as conducting performance reviews.
 
 **Jet Studios - Floor Manager (July 2018 to February 2019)**
 
-- Managing the day to day and prepartion of a high end film and photography studio with clients such as Vivienne Westwood, Evian & ITV. 
-- Excellent communiction skills 
-- Working independently and managing a team of studio assistant meant ensuring i am self confident and able to raise enthusiasm in others.
-- Plenty of patience and stamina in such a demanding public-facing position.
+Managing the day to day and prepartion of a high end film and photography studio with clients such as Vivienne Westwood, Evian & ITV.
 
+- Adhere to health and safety regulations
+- Working independently and managing a team of studio assistants
+- Plenty of patience and stamina in such a demanding public-facing position.
+- Oversee everything that happens before, during and after a shoot
+- Leading and assisting on photographic shoots
+- Review and understand client briefs and notes, as well as guidance provided by the creative director or line manager, and accurately follow accordingly.
 
 ## Education
 
-#### Makers Academy (Novemeber 2020 to March 2021)
+### Makers Academy (Novemeber 2020 to March 2021)
 
 A 16-week intensive development bootcamp, focusing on :
 
@@ -78,13 +84,13 @@ A 16-week intensive development bootcamp, focusing on :
 - Peer code reviews
 - Git workflow
 
-#### University of Exeter (September 2015 to July 2018)
+### University of Exeter (September 2015 to July 2018)
 
 - History of Art and English Literature
 - 2:1 (69% average)
 - Dissertation focused on participatory art in the the Tate Modern, specifically the Turbine Hall; including the technological aspects which help turn the viewer into a participant. 
 
-#### Steyning Grammar 6th Form
+### Steyning Grammar 6th Form
 
 - English Literature (A)
 - English Language (A)
