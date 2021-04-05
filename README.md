@@ -29,6 +29,9 @@ I enjoy working in challenging environments and developing or learning from othe
 </a>
 </div>
 
+
+
+
 ## Projects
 
 | Name                         |  Description       | Tech/tools        |
