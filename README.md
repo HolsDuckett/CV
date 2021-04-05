@@ -17,6 +17,9 @@ Working for one of the largest and leading event venues in London, I achieved so
 I enjoy working in challenging environments and developing or learning from others. For this reason I have chosen a career in software development with its continuous problems and infinite depth of learning. 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react)
+
+
 ## Projects
 
 | Name                         |  Description       | Tech/tools        |
@@ -25,7 +28,6 @@ I enjoy working in challenging environments and developing or learning from othe
 | [BBB](https://github.com/HolsDuckett/acebook-BBB) | A clone of Facebook built using Git Collaboration, Agile processes and XP Values. Users can create an account, upload a profile pictures, make, edit, and delete posts, like and comment on posts, find and add friends and see number of mutual friends. | Ruby on Rails, Rspec, Capybara, HTML, CSS, Bootstrap, Travis CI, Heroku, PostgresSQL |
 
 ## Skills
-
 
 ### Organisation and Time Management
 
@@ -36,6 +38,8 @@ My **excellent time management and organisation ensured the successful smooth ru
 My ability to **quickly spot crucial missing information** in Risk Assessments resulted in all my clients not only having a smooth event but one that was safe and adhered to all outside regulations. **Reading hundreds of Risk Assessments and writing security briefs has sharpened my skills** over the years. When writing code in pairing sessions and group projects I am often quick to spot when a comma has been missed, a method has been spelt incorrectly or an ‘end’ is in the wrong place **saving unnecessary frustration** down the line.
 
 ### Communication
+
+Through both my use of **communication skills and clearly structured communication processes** I was able to **build a proactive and focused team**. Clearly communicating my expectations of them and **ensuring I was available to listen and respond** to their training requirements as well as other ideas for completing the job to the best of their abilities was a **key skill in the success of our services as a company**. As a result of this, **within 3 months of becoming responsible for managing all event service teams, we had a 100% recurring booking record**.
 
 
 ### Quick Learner
@@ -76,20 +80,19 @@ Makers Academy is a highly selective and incredibly intense 16 week bootcamp whi
 - Peer code reviews
 - Git workflow
 
-
-
 #### University of Exeter (September 2015 to July 2018)
 
 - History of Art and English Literature
 - 2:1 (69% average)
 - Dissertation focused on participatory art in the the Tate Modern, specifically the Turbine Hall; including the technological aspects which help turn the viewer into a participant. 
+- 
 
 #### Steyning Grammar 6th Form
 
 - English Literature (A)
 - English Language (A)
 - Art & Design (A)
-
+- Student Elected Head Girl to school of 2,500 pupils.
 
 ## Hobbies and Interest
 
