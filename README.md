@@ -15,23 +15,6 @@
 Working for one of the largest and leading event venues in London, I achieved solving the unsolvable for clients such as Moncler, Bacardi and Netflix, on a daily basis. It was trying to solve one of these problems that I was first drawn to Software Development. I wanted to write a program that was specific to our venue space which would consequently make our team more efficient and effective. The moment I started programming I fell in love with the continuous feedback, reflection and improvement cycle it allowed. From then onwards this was my passion and the way I wanted to work in the future.
 
 I enjoy working in challenging environments and developing or learning from others. For this reason I have chosen a career in software development with its continuous problems and infinite depth of learning. 
-
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HolsDuckett&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react&hide=SCSS)
--->
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=HolsDuckett&show_icons=true&theme=react">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=HolsDuckett&show_icons=true&theme=react" />
-</a>
-  
-  
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react&hide=SCSS">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react&hide=SCSS" />
-</a>
-</div>
-
-<div align="left"> 
   
 ## Projects
 
@@ -39,8 +22,6 @@ I enjoy working in challenging environments and developing or learning from othe
 | ---------------------------- | ----------------- | ----------------- |
 | [Scrummy](https://github.com/HolsDuckett/MarketFinder) |Final Project: Scrummy is a location-based mobile app designed to increase the footfall of local markets by being a one stop platform for finding all the necessary information to discovering your favourite and new favouritre local street food markets. | React Native, Node.js, Express, MongoDB |
 | [BBB](https://github.com/HolsDuckett/acebook-BBB) | A clone of Facebook built using Git Collaboration, Agile processes and XP Values. Users can create an account, upload a profile pictures, make, edit, and delete posts, like and comment on posts, find and add friends and see number of mutual friends. | Ruby on Rails, Rspec, Capybara, HTML, CSS, Bootstrap, Travis CI, Heroku, PostgresSQL |
-
-</div>
 
 ## Skills
 
@@ -113,4 +94,21 @@ Makers Academy is a highly selective and incredibly intense 16 week bootcamp whi
 - Yoga - got to stretch those hip flexors some how.
 - Eating - particularly pasta, in fact, pretty much only pasta.
 - Life Drawing - There's something very soothing about drawing naked people. 
+
+## Github Stats 
+
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HolsDuckett&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react&hide=SCSS)
+-->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=HolsDuckett&show_icons=true&theme=react">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=HolsDuckett&show_icons=true&theme=react" />
+</a>
+  
+  
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react&hide=SCSS">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react&hide=SCSS" />
+</a>
+</div>
 
