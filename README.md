@@ -27,15 +27,15 @@ I enjoy working in challenging environments and developing or learning from othe
 ## Skills
 
 
-#### Organisation and Time Management
+### Organisation and Time Management
 
 My **excellent time management and organisation ensured the successful smooth running of all the events I managed**. A detailed plan including specific tasks and strict deadlines created an essential overview allowing me to **manage all projects effectively**. During Makers, I have continuously applied this skill set when approaching our Team Projects; **creating sprints with planned purposeful tasks and strict deadlines** allowed us to be **efficient, productive** and thus create numerous successful and informative projects.
 
-#### Detail Orientated
+### Detail Orientated
 
 My ability to **quickly spot crucial missing information** in Risk Assessments resulted in all my clients not only having a smooth event but one that was safe and adhered to all outside regulations. **Reading hundreds of Risk Assessments and writing security briefs has sharpened my skills** over the years. When writing code in pairing sessions and group projects I am often quick to spot when a comma has been missed, a method has been spelt incorrectly or an ‘end’ is in the wrong place **saving unnecessary frustration** down the line.
 
-#### Communication
+### Communication
 
 
 ### Quick Learner
@@ -52,6 +52,7 @@ capacity events venue on Brick Lane, East London.
 - Coordinating event planners, council regulations and venue requirements to ensure a
 smooth delivery of all necessary factors to create impacting events
 for capacities of up to 2,000. 
+- Managing all event service teams and booking systems including event security and cleaning. 
 
 **Jet Studios - Floor Manager (July 2018 to February 2019)**
 
@@ -65,10 +66,17 @@ for capacities of up to 2,000.
 
 #### Makers Academy (Novemeber 2020 to March 2021)
 
+Makers Academy is a highly selective and incredibly intense 16 week bootcamp which transforms individuals into Junior Developers. Makers Academy equips students with an entire toolkit of skills for full stack web development, however a few technologies and practices which have focus on are:
+
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Agile development process and XP values
+- Ruby, Rails, JavaScript, React, React Native, HTML, CSS
+- RSpec, Jasmine, Capybara, Jest
+- Pair programming
+- Peer code reviews
+- Git workflow
+
+
 
 #### University of Exeter (September 2015 to July 2018)
 
