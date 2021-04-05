@@ -24,12 +24,13 @@ I enjoy working in challenging environments and developing or learning from othe
 <a href="https://github-readme-stats.vercel.app/api?username=HolsDuckett&show_icons=true&theme=react">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=HolsDuckett&show_icons=true&theme=react" />
 </a>
+  
+  
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react" />
 </a>
 </div>
 
-<div>
 
 ## Projects
 
@@ -37,7 +38,7 @@ I enjoy working in challenging environments and developing or learning from othe
 | ---------------------------- | ----------------- | ----------------- |
 | [Scrummy](https://github.com/HolsDuckett/MarketFinder) |Final Project: Scrummy is a location-based mobile app designed to increase the footfall of local markets by being a one stop platform for finding all the necessary information to discovering your favourite and new favouritre local street food markets. | React Native, Node.js, Express, MongoDB |
 | [BBB](https://github.com/HolsDuckett/acebook-BBB) | A clone of Facebook built using Git Collaboration, Agile processes and XP Values. Users can create an account, upload a profile pictures, make, edit, and delete posts, like and comment on posts, find and add friends and see number of mutual friends. | Ruby on Rails, Rspec, Capybara, HTML, CSS, Bootstrap, Travis CI, Heroku, PostgresSQL |
-</div>
+
 ## Skills
 
 ### Organisation and Time Management
