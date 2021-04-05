@@ -72,7 +72,7 @@ Managing the day to day and prepartion of a high end film and photography studio
 
 ## Education
 
-### Makers Academy (Novemeber 2020 to March 2021)
+**Makers Academy (Novemeber 2020 to March 2021)**
 
 A 16-week intensive development bootcamp, focusing on :
 
@@ -84,13 +84,13 @@ A 16-week intensive development bootcamp, focusing on :
 - Peer code reviews
 - Git workflow
 
-### University of Exeter (September 2015 to July 2018)
+**University of Exeter (September 2015 to July 2018)**
 
 - History of Art and English Literature
 - 2:1 (69% average)
 - Dissertation focused on participatory art in the the Tate Modern, specifically the Turbine Hall; including the technological aspects which help turn the viewer into a participant. 
 
-### Steyning Grammar 6th Form
+**Steyning Grammar 6th Form**
 
 - English Literature (A)
 - English Language (A)
@@ -103,7 +103,7 @@ A 16-week intensive development bootcamp, focusing on :
 - **Eating** - particularly pasta, in fact, pretty much only pasta.
 - **Life Drawing** - There's something very soothing about drawing naked people. 
 
-## Github Stats 
+## Github Stats
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HolsDuckett&show_icons=true&theme=react)
