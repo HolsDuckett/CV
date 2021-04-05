@@ -11,45 +11,36 @@
 </div>
 
 ## About Me
-I am a problem solver who loves a good challenge (you should see my codewords book) and am able to take ownership of an issue through to resolution.
 
-As an operations manager for one of the largest and leading event venues in london, I achieved solving the unsolvable for clients such as Moncler, Bacardi and Netflix, on a daily basis. I thought I had mastered the creative art of problem solving, that was until I was introduced to coding. 
+Working for one of the largest and leading event venues in London, I achieved solving the unsolvable for clients such as Moncler, Bacardi and Netflix, on a daily basis. It was trying to solve one of these problems that I was first drawn to Software Development. I wanted to write a program that was specific to our venue space which would consequently make our team more efficient and effective. The moment I started programming I fell in love with the continuous feedback, reflection and improvement cycle it allowed. From then onwards this was my passion and the way I wanted to work in the future.
 
-Having recently graduated from Makers Academy I am noW looking for the opportunity to expand my skills into the tech world as a Software Devloper. 
+I enjoy working in challenging environments and developing or learning from others. For this reason I have chosen a career in software development with its continuous problems and infinite depth of learning. 
+
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
+| Name                         |  Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [Scrummy](https://github.com/HolsDuckett/MarketFinder) |Final Project: Scrummy is a location-based mobile app designed to increase the footfall of local markets by being a one stop platform for finding all the necessary information to discovering your favourite and new favouritre local street food markets. | React Native, Node.js, Express, MongoDB |
 | [BBB](https://github.com/HolsDuckett/acebook-BBB) | A clone of Facebook built using Git Collaboration, Agile processes and XP Values. Users can create an account, upload a profile pictures, make, edit, and delete posts, like and comment on posts, find and add friends and see number of mutual friends. | Ruby on Rails, Rspec, Capybara, HTML, CSS, Bootstrap, Travis CI, Heroku, PostgresSQL |
 
 ## Skills
 
-#### Communication
-- keeping client expectations realistic
-- keeping multiple teams within the loop - being the middle man between event manager and venue service teams
 
-#### Fast Learner
-- 
+#### Organisation and Time Management
 
-#### Problem Solving
-- events about preventative planning but also very high pressure on the day as there is an immeditae time pressure due to the event being live with paying customers. I am the one responsible for any problems and have to direct or fix as quick as possible. This require creative and proactive problem solving. 
-- EXAMPLE
-
-#### Working in a Team
-- 
+My **excellent time management and organisation ensured the successful smooth running of all the events I managed**. A detailed plan including specific tasks and strict deadlines created an essential overview allowing me to **manage all projects effectively**. During Makers, I have continuously applied this skill set when approaching our Team Projects; **creating sprints with planned purposeful tasks and strict deadlines** allowed us to be **efficient, productive** and thus create numerous successful and informative projects.
 
 #### Detail Orientated
 
-Fast learner - Able to take on new technologies and learn new practices rapidly and efficiently. Always eager to learn new skills and techniques. Learning is one of my key motivations and I excel at it.
-Adaptable - New environments, new languages, new teams, new challenges. None of these are a problem, only opportunities. I have worked with all sorts of different people, teams and in different locations around the world. I have always been able to rise to the challenge and come out the other side successful.
-Problem-solver - Always approach problems with a cool and level mindset. Through my experiences and training at Makers, I have hwo to tackle every problem with a step-by-step procedure for identifying the key components of an issue and resolving them.
-Attention to detail - My time as a microscopy imaging specialist has strengthened my keen sense of attention-to-detail, allowing me to spot issues that others may have missed.
-Enthusiastic - An upbeat personality, which I believe that is always tanslated into my work. I bring an enthusiasma and determination to every project I work on.
-Team-player - I enjoying working in teams and revel in meeting new people. I bring enthusiam but also a calming presence to teams. Always looking to mediate when issues arise and ensuring all members feel included within the team.
-Determined - A key attribute to my personality and my most valued skill. I work with a constant determination regardless of the challenge ahead of me. I don't like to leave something unfinished and will always push myself to the best of my abilities.
+My ability to **quickly spot crucial missing information** in Risk Assessments resulted in all my clients not only having a smooth event but one that was safe and adhered to all outside regulations. **Reading hundreds of Risk Assessments and writing security briefs has sharpened my skills** over the years. When writing code in pairing sessions and group projects I am often quick to spot when a comma has been missed, a method has been spelt incorrectly or an ‘end’ is in the wrong place **saving unnecessary frustration** down the line.
 
+#### Communication
+
+
+### Quick Learner
+
+Learning new technologies is a key skill of mine, which can be demonstrated through my success at Makers Academy thus far. Due to my **inquisitive nature and my speedy knowledge on-boarding**, I was able to create a mock web page in my spare time using **self taught** basics of javascript, CSS, HTML, and Bootstrap for my personal web development interest prior to joining Makers. Since joining Makers, **I have created a vast collection of projects that delve into the different technologies and architectures used in web development**. From single page javascript apps, to intricate rails projects, I've **successfully explored a great range of innovative tech** that's leading the companies of today to greatness.
 
 
 ## Work Experience
@@ -82,7 +73,7 @@ for capacities of up to 2,000.
 #### University of Exeter (September 2015 to July 2018)
 
 - History of Art and English Literature
-- 2:1
+- 2:1 (69% average)
 - Dissertation focused on participatory art in the the Tate Modern, specifically the Turbine Hall; including the technological aspects which help turn the viewer into a participant. 
 
 #### Steyning Grammar 6th Form
@@ -96,5 +87,5 @@ for capacities of up to 2,000.
 
 - Yoga - got to stretch those hip flexors some how.
 - Eating - particularly pasta, in fact, pretty much only pasta.
-- Life Drawing - There's something so soothing about drawing naked people. 
+- Life Drawing - There's something very soothing about drawing naked people. 
 
