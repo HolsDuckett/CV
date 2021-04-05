@@ -16,11 +16,17 @@ Working for one of the largest and leading event venues in London, I achieved so
 
 I enjoy working in challenging environments and developing or learning from others. For this reason I have chosen a career in software development with its continuous problems and infinite depth of learning. 
 
-<div align="left" >
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react)
-</div>
-<div align="left" >
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HolsDuckett&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react)
+-->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=HolsDuckett&show_icons=true&theme=react">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=HolsDuckett&show_icons=true&theme=react" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolsDuckett&theme=react" />
+</a>
 </div>
 
 ## Projects
