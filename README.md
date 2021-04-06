@@ -47,7 +47,7 @@ Learning new technologies is a key skill of mine, which can be demonstrated thro
 
 **The Truman Brewery - Event Operations Manager (February 2019 to November 2020)**
 
- Managing the day to day and event logistics of a 10 acre multi capacity events venue on Brick Lane, East London.
+Managing the day to day and event logistics of a 10 acre multi capacity events venue on Brick Lane, East London.
  
 - Coordinating event planners, council regulations and venue requirements
 - Day-to-day venue support
