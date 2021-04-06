@@ -99,7 +99,7 @@ A 16-week intensive development bootcamp, focusing on :
 
 ## Hobbies and Interest
 
-- **Yoga** - got to stretch those hip flexors some how.
+- **Yoga** - got to stretch those hip flexors somehow.
 - **Eating** - particularly pasta, in fact, pretty much only pasta.
 - **Life Drawing** - There's something very soothing about drawing naked people. 
 
