@@ -9,16 +9,14 @@
 [Projects](#Projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
 
 </div>
-<div align="center"> 
 
 ## About Me
 
 Working for one of the largest and leading event venues in London, I achieved solving the unsolvable for clients such as Moncler, Bacardi and Netflix, on a daily basis. It was trying to solve one of these problems that I was first drawn to Software Development. I wanted to write a program that was specific to our venue space which would consequently make our team more efficient and effective. The moment I started programming I fell in love with the continuous feedback, reflection and improvement cycle it allowed. From then onwards this was my passion and the way I wanted to work in the future.
 
 I enjoy working in challenging environments and developing or learning from others. For this reason I have chosen a career in software development with its continuous problems and infinite depth of learning. 
-</div>
 
-**Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
+**Tech Skills** : Ruby, Rails, Sinatra, Node.js, React, React Native, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
   
 ## Projects
 
