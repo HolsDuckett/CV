@@ -72,7 +72,7 @@ Managing the day to day and prepartion of a high end film and photography studio
 
 ## Education
 
-**Makers Academy (Novemeber 2020 to March 2021)**
+**[Makers Academy](https://makers.tech/about-us/) (Novemeber 2020 to March 2021)**
 
 A 16-week intensive development bootcamp, focusing on :
 
