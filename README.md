@@ -39,7 +39,7 @@ My ability to **quickly spot crucial missing information** in Risk Assessments r
 
 Through both my use of **communication skills and clearly structured communication processes** I was able to **build a proactive and focused team**. Clearly communicating my expectations of them and **ensuring I was available to listen and respond** to their training requirements as well as other ideas for completing the job to the best of their abilities was a **key skill in the success of our services as a company**. As a result of this, **within 3 months of becoming responsible for managing all event service teams, we had a 100% recurring booking record**.
 
-### Quick Learner
+### Quick Learner with a Growth Mindset
 
 Learning new technologies is a key skill of mine, which can be demonstrated through my success at Makers Academy thus far. Due to my **inquisitive nature and my speedy knowledge on-boarding**, I was able to create a mock web page in my spare time using **self taught** basics of javascript, CSS, HTML, and Bootstrap for my personal web development interest prior to joining Makers. Since joining Makers, **I have created a vast collection of projects that delve into the different technologies and architectures used in web development**. From single page javascript apps, to intricate rails projects, I've **successfully explored a great range of innovative tech** that's leading the companies of today to greatness.
 
