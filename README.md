@@ -8,13 +8,8 @@
 
 [Projects](#Projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests)
 
-</div>
-
-## About Me
-
 Working for one of the largest and leading event venues in London, I achieved solving the unsolvable for clients such as Moncler, Bacardi and Netflix, on a daily basis. It was trying to solve one of these problems that I was first drawn to Software Development. I wanted to write a program that was specific to our venue space which would consequently make our team more efficient and effective. The moment I started programming I fell in love with the continuous feedback, reflection and improvement cycle it allowed. From then onwards this was my passion and the way I wanted to work in the future.
-
-I enjoy working in challenging environments and developing or learning from others. For this reason I have chosen a career in software development with its continuous problems and infinite depth of learning. 
+</div>
 
 **Tech Skills** : Ruby, Rails, Sinatra, Node.js, React, React Native, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
   
@@ -49,15 +44,10 @@ Learning new technologies is a key skill of mine, which can be demonstrated thro
 
 Managing the day to day and event logistics of a 10 acre multi capacity events venue on Brick Lane, East London.
  
-- Coordinating event planners, council regulations and venue requirements
-- Day-to-day venue support
-- Health and safety protocols including risk assessment document reviews
-- Training new team members
-- Development of a venue operations manual document
-- Management of key internal documentation (audit, health and safety)
-- Enhancement of external documentation (event procedure, client support)
-- Managing all event service teams and booking systems including event security and cleaning. 
-- Lead and motivate a team with diverse skill sets, including delegating work and responsibilities, as well as conducting performance reviews.
+- Managing the day to day and event logistics of a 10 acre multi-capacity Events venue on Brick Lane with capacities of up to 2,500.
+- Able to innovatively solve problems within high pressure situations for high end clients such as Netflix, Bacardi, NARS. 
+- Proactively and independently created and managed an in house cleaning team of 10 with a 100% recurring booking within 3 months. 
+- Maintaining collaborative relationships with a range of personalities and teams outside of client relationships, including Maintenance, Security, Cleaning, Supply Chain, Work Force, Commercial and Law Enforcement.
 
 **Jet Studios - Floor Manager (July 2018 to February 2019)**
 
@@ -66,9 +56,7 @@ Managing the day to day and prepartion of a high end film and photography studio
 - Adhere to health and safety regulations
 - Working independently and managing a team of studio assistants
 - Plenty of patience and stamina in such a demanding public-facing position.
-- Oversee everything that happens before, during and after a shoot
 - Leading and assisting on photographic shoots
-- Review and understand client briefs and notes, as well as guidance provided by the creative director or line manager, and accurately follow accordingly.
 
 ## Education
 
@@ -86,16 +74,7 @@ A 16-week intensive development bootcamp, focusing on :
 
 **University of Exeter (September 2015 to July 2018)**
 
-- History of Art and English Literature
-- 2:1 (69% average)
-- Dissertation focused on participatory art in the the Tate Modern, specifically the Turbine Hall; including the technological aspects which help turn the viewer into a participant. 
-
-**Steyning Grammar 6th Form**
-
-- English Literature (A)
-- English Language (A)
-- Art & Design (A)
-- Student Elected Head Girl to school of 2,500 pupils.
+- History of Art and English Literature 2:1 (69% average)
 
 ## Hobbies and Interest
 
