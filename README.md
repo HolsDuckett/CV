@@ -13,6 +13,7 @@ Working for one of the largest and leading event venues in London, I achieved so
 
 **Tech Skills** : Ruby, Rails, Sinatra, Node.js, React, React Native, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
  </div>
+ 
 ## Projects
 
 | Name                         |  Description       | Tech/tools        |
