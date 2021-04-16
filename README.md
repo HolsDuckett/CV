@@ -81,9 +81,10 @@ A 16-week intensive development bootcamp, focusing on :
 
 ## Hobbies and Interest
 
-- **Yoga** - got to stretch those hip flexors somehow.
-- **Eating** - particularly pasta, in fact, pretty much only pasta.
-- **Life Drawing** - There's something very soothing about drawing naked people. 
+- **Yoga** - Got to stretch those hip flexors somehow.
+- **Climbing** - I’ve been a keen climber for the past 15 years. I’ve sacrificed perfect nails to get that ‘just about’ achievable grip. 
+- **Running** - I’m running in the Brighton Half Marathon this coming June - Strava made me do it.
+
 
 ## Github Stats
 
