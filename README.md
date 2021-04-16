@@ -55,10 +55,11 @@ Managing the day to day and event logistics of a 10 acre multi capacity events v
 
 Managing the day to day and prepartion of a high end film and photography studio with clients such as Vivienne Westwood, Evian & ITV.
 
-- Adhere to health and safety regulations
-- Working independently and managing a team of studio assistants
+- Two weeks in I was asked to step in to the Floor Manager role.
+- Adhere to health and safety regulations.
+- Working independently and managing a team of studio assistants.
 - Plenty of patience and stamina in such a demanding public-facing position.
-- Leading and assisting on photographic shoots
+- Leading and assisting on photographic shoots.
 
 ## Education
 
